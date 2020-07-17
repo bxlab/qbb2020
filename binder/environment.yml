@@ -1,0 +1,9 @@
+name: qbb2020
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - scipy
+  - statsmodels
+  - scikit-learn
+  - patsy
