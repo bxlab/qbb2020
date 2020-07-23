@@ -1,5 +1,6 @@
 name: qbb2020
 dependencies:
+  - jupyter_contrib_nbextensions
   - numpy
   - pandas
   - matplotlib
