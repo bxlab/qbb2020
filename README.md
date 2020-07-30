@@ -1,6 +1,6 @@
 # Fall 2020 - AS.020.607 - Quantitative Biology Bootcamp
 
-Ageneda and additional information will be posted shortly
+Ageneda and additional information at http://bxlab.github.io/cmdb-bootcamp/
 
 ### Details and Logistics
 
