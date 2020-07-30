@@ -12,7 +12,7 @@ Ageneda and additional information at http://bxlab.github.io/cmdb-bootcamp/
 ### Preliminary work
 
 1. Join our [Slack channel](https://jhu-cmdb.slack.com) [[video](https://youtu.be/L9UC4gWiIkA)]
-1. Create GitHub account and "watch" bxlab/qbb2020 [video]
+1. Create GitHub account and "watch" bxlab/qbb2020 [[video](https://youtu.be/YtipHwqlpDE)]
 1. Complete the "Programming with Python" lesson on [Binder](https://mybinder.org/v2/gh/bxlab/qbb2020/master) [[video](https://youtu.be/DnYgrrbf9HQ)]
     - Note that there are 12 parts (`01-intro.ipynb` thru `12-cmdline.ipynb`)
 
