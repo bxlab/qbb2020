@@ -17,8 +17,14 @@ Agenda and additional information at http://bxlab.github.io/cmdb-bootcamp/
 1. Complete the "Programming with Python" lesson on [Binder](https://mybinder.org/v2/gh/bxlab/qbb2020/master) [[video](https://youtu.be/DnYgrrbf9HQ)]
     - Note that there are 12 parts (`01-intro.ipynb` thru `12-cmdline.ipynb`)
     - This is estimated to take ~ 8 hrs.
+1. Complete the "The Unix Shell" lesson on [Software Carpentry](http://swcarpentry.github.io/shell-novice/)
+	- There are 7 parts. You only need to go through the first 3.
+	- This is estimated to take ~ 1.5 hrs.
+1. Complete the "Version Control with Git" lesson on [Software Carpentry](http://swcarpentry.github.io/git-novice/)
+	- There are 14 parts. You only need to go through the first 7.
+	- This is estimated to take ~ 1.5 hrs.
 
-Coming soon: MARCC, Unix, Git, Pre-Assessment
+Coming soon: MARCC, Pre-Assessment
 
 ### Pre-bootcamp Zoom icebreaker and office hours
 
