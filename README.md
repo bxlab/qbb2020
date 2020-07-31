@@ -24,10 +24,10 @@ Coming soon: MARCC, Unix, Git, Pre-Assessment
 
 **Please attend at least one of these!**
 
-* Icebreaker + Intro to Zoom/Slack (strongly recommended!): <br />&nbsp;&nbsp;&nbsp; TBD - Aug 25??<br /><br />
-* Office Hour with Kate: <br />&nbsp;&nbsp;&nbsp;Wed., Aug. 12 from 12-1 p.m. ET - [Zoom link](https://JHUBlueJays.zoom.us/j/92574680736?pwd=V0hmbWsydmcyQUN1TVZBbUE4bGJLdz09)<br /><br />
-* Office Hour with Dylan: <br />&nbsp;&nbsp;&nbsp;Thurs., Aug. 20 from 6-7 p.m. ET - [Zoom link](https://JHUBlueJays.zoom.us/j/98623688094?pwd=R3lkWWN2NXUvb3laU2pKWE5CMEtXdz09)<br /><br />
-* Office Hour with Steph: <br />&nbsp;&nbsp;&nbsp;Fri., Aug. 28 from 9:30-10:30 a.m. - [Zoom link](https://JHUBlueJays.zoom.us/j/92547895049?pwd=cnFjWWdFRUYzd2RndStIeEI1b0RyUT09)
+* Icebreaker + Intro to Zoom/Slack (strongly recommended!): <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TBD - Aug 25??<br /><br />
+* Office Hour with Kate: <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wed., Aug. 12 from 12-1 p.m. ET - [Zoom link](https://JHUBlueJays.zoom.us/j/92574680736?pwd=V0hmbWsydmcyQUN1TVZBbUE4bGJLdz09)<br /><br />
+* Office Hour with Dylan: <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thurs., Aug. 20 from 6-7 p.m. ET - [Zoom link](https://JHUBlueJays.zoom.us/j/98623688094?pwd=R3lkWWN2NXUvb3laU2pKWE5CMEtXdz09)<br /><br />
+* Office Hour with Steph: <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fri., Aug. 28 from 9:30-10:30 a.m. ET - [Zoom link](https://JHUBlueJays.zoom.us/j/92547895049?pwd=cnFjWWdFRUYzd2RndStIeEI1b0RyUT09)
 
 ### Questions?
 
