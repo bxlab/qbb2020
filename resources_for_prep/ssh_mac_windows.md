@@ -10,7 +10,8 @@ To open an ssh connection to MARCC in macOS or Windows 10:
 
 2. Once your terminal/command prompt app is open, type the command `ssh <JHEDID>@jhu.edu@login.marcc.jhu.edu`.<br /><br />Your JHEDID is the bit before *@jh.edu* or *jhu.edu* in your JHU email. For example, if my JHU email was johndoe@jh.edu, I would log in with the command `ssh johndoe@jhu.edu@login.marcc.jhu.edu`.
 
-Congratulations! You're now on MARCC.
+3. The server will prompt you to provide your 2FA code as well as your password, as explained in the MARCC tutorial. You will use this terminal window to interact with MARCC. Once you enter those, you should now have access to the server!
+
 
 ## For earlier versions of Windows (7, 8)
 
@@ -26,4 +27,8 @@ Depending on your version of Windows, you may or may not have `ssh` natively ins
 
 5. In the **Host Name (or IP address)** field, enter `<JHEDID>@jhu.login.marcc.jhu.edu`.Your JHEDID is the bit before *@jh.edu* or *jhu.edu* in your JHU email. For example, if my JHU email was johndoe@jh.edu, I would enter `ssh johndoe@jhu.edu@login.marcc.jhu.edu`. In the **Port** field, enter `22`.<br /><br />![PuTTY GUI2](https://raw.githubusercontent.com/bxlab/qbb2020/master/resources_for_prep/PuTTY_gui_hostname.png)
 
-6. Make sure that **SSH** is selected under **Connection type**. Click **Open** to start your SSH session.<br /><br />![PuTTY GUI3](https://raw.githubusercontent.com/bxlab/qbb2020/master/resources_for_prep/PuTTY_gui_open.png)
+6. Make sure that **SSH** is selected under **Connection type**. Click **Open** to start your SSH session.<br /><br />![PuTTY GUI3](https://raw.githubusercontent.com/bxlab/qbb2020/master/resources_for_prep/PuTTY_gui_open.png)<br /><br />This will open a terminal window through PuTTY that you will use to interact with MARCC.
+
+7. The server will prompt your to provide your 2FA code as well as your password, as explained in the MARCC tutorial. Once you enter those, you should now have access to the server!
+
+8. ***Optional***: If you'd like, you can save your login information so that you don't have to re-type it each time you open PUTTY. After entering your login information as in **Step 5**, give your connection a name (e.g. "MARCC") in the box under **Saved Sessions** and click **Save**.<br /><br />![PuTTY Save](https://raw.githubusercontent.com/bxlab/qbb2020/master/resources_for_prep/PuTTY_save.png)<br /><br />In the future, you can just select your connection name from the menu, and click **Load**. Click **Open** to open the connection.
