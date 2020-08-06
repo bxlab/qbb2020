@@ -24,4 +24,6 @@ Depending on your version of Windows, you may or may not have `ssh` natively ins
 
 4. Open the PuTTY Application. Depending on your version of Windows, you may see something slightly different, but the GUI should look something like this:<br/><br/>![PuTTY GUI](https://raw.githubusercontent.com/bxlab/qbb2020/master/resources_for_prep/PuTTY_gui.png)
 
-5. In the **Host Name (or IP address)** field, enter `<JHEDID>@jhu.login.marcc.jhu.edu`.Your JHEDID is the bit before *@jh.edu* or *jhu.edu* in your JHU email. For example, if my JHU email was johndoe@jh.edu, I would enter `ssh johndoe@jhu.edu@login.marcc.jhu.edu`. In the **Port** field, enter `22`.<br /><br />
+5. In the **Host Name (or IP address)** field, enter `<JHEDID>@jhu.login.marcc.jhu.edu`.Your JHEDID is the bit before *@jh.edu* or *jhu.edu* in your JHU email. For example, if my JHU email was johndoe@jh.edu, I would enter `ssh johndoe@jhu.edu@login.marcc.jhu.edu`. In the **Port** field, enter `22`.<br /><br />![PuTTY GUI2](https://raw.githubusercontent.com/bxlab/qbb2020/master/resources_for_prep/PuTTY_gui_hostname.png)
+
+6. Make sure that **SSH** is selected under **Connection type**. Click **Open** to start your SSH session.<br /><br />![PuTTY GUI3](https://raw.githubusercontent.com/bxlab/qbb2020/master/resources_for_prep/PuTTY_gui_open.png)
