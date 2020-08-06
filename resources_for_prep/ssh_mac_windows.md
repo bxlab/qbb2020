@@ -18,9 +18,9 @@ Depending on your version of Windows, you may or may not have `ssh` natively ins
 
 1. The first thing you're going to need to do is determine whether you're running a 32-bit or 64-bit version of Windows. You can find this information in the **System** panel.<br /><br />In Windows 8, the **System** panel can be opened by first opening the **Charms bar** using the keyboard shortcut `windows key` + `C`, then clicking on **Settings** and then clicking on **PC info**. You'll want to look at the *System type* to determine whether you're running a 32-bit or 64-bit operating system.<br /><br />In Windows 7, the **System** panel can be opened by first clicking on the **Start** button at the bottom-right of the screen, then **right-clicking on Computer** in the righthand panel of the Start Menu, and finally clicking **Properties**. You'll want to look at the *System type* to determine whether you're running a 32-bit or 64-bit operating system.
 
-2. Once you've determined which type of operating system you're running, visit the link: [PuTTY Link](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html). Select the `.msi` file from the **Package files** section that matches your operating system type, and download it.
+2. Once you've determined which type of operating system you're running, visit [this link](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html). Select the `.msi` file from the **Package files** section that matches your operating system type, and download it.
 
 3. Find the `.msi` file in your **Downloads** and open it to begin the Setup Wizard. Follow the instructions to install PuTTY.
 
 4. Open the PuTTY Application. Depending on your version of Windows, you may see something slightly different, but the GUI should look something like this:
-![PuTTY GUI]()
+![PuTTY GUI](qbb2020/resources_for_prep/PuTTY_gui.png)
