@@ -11,20 +11,20 @@ Agenda and additional information at http://bxlab.github.io/cmdb-bootcamp/
 
 ### Preliminary work
 
-1. Join our [Slack channel](https://jhu-cmdb.slack.com) [[video](https://youtu.be/L9UC4gWiIkA)]
+1. Join our [Slack channel](https://jhu-cmdb.slack.com) [[video](https://youtu.be/L9UC4gWiIkA)][[slides](https://docs.google.com/presentation/d/1Y4fvsaQyWwb-YGq-kvUjX3Emct9_N-pOYfYlSM1UtwM)]
 1. Create a Zoom account through your JHU email and let your TA know your account info. [[Walkthrough here](https://github.com/bxlab/qbb2020/tree/master/resources_for_prep/create_zoom_account.pdf)]
-1. Create [GitHub](https://github.com/) account and "watch" bxlab/qbb2020 [[video](https://youtu.be/YtipHwqlpDE)]
-1. Complete the "Programming with Python" lesson on [Binder](https://mybinder.org/v2/gh/bxlab/qbb2020/master) [[video](https://youtu.be/DnYgrrbf9HQ)]
+1. Create [GitHub](https://github.com/) account and "watch" bxlab/qbb2020 [[video](https://youtu.be/YtipHwqlpDE)][[slides](https://docs.google.com/presentation/d/1BcsyABeT8JruOG3AeCXLLn1Dq9WUpqDbdtmRZyxbP4M)]
+1. Complete the "Programming with Python" lesson on [Binder](https://mybinder.org/v2/gh/bxlab/qbb2020/master) [[video](https://youtu.be/DnYgrrbf9HQ)][[slides](https://docs.google.com/presentation/d/1OlKX-a_8HzgIzZHLvemk9GC_gWkyvWZ8Vks2PgHg55M)]
     - Note that there are 12 parts (`01-intro.ipynb` thru `12-cmdline.ipynb`)
     - This is estimated to take ~ 8 hrs.
-1. Complete the "The Unix Shell" lesson on [Software Carpentry](http://swcarpentry.github.io/shell-novice/)
-	- There are 7 parts. You only need to go through the first 3.
-	- This is estimated to take ~ 1.5 hrs.
-1. Complete the "Version Control with Git" lesson on [Software Carpentry](http://swcarpentry.github.io/git-novice/)
+1. Complete the "[The Unix Shell](http://swcarpentry.github.io/shell-novice)" lesson on MARCC [[video](https://youtu.be/ktIK9jhbpEM)][[slides](https://docs.google.com/presentation/d/1vFqfmfiOwnZ9c6GA6VlVgNDkUVkUh2qkhgwpxGZUPfg)]
+	- There are 7 parts. You only need to go through the first 4.
+	- This is estimated to take ~ 2 hrs.
+1. Complete the "[Version Control with Git](http://swcarpentry.github.io/git-novice)" lesson on MARCC [video][slides]
 	- There are 14 parts. You only need to go through the first 7.
-	- This is estimated to take ~ 1.5 hrs.
+	- This is estimated to take ~ 2 hrs.
 
-Coming soon: MARCC, Pre-Assessment
+Coming soon: Pre-Assessment
 
 ### Pre-bootcamp Zoom icebreaker and office hours
 
