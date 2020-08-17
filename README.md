@@ -24,11 +24,11 @@ Agenda and additional information at http://bxlab.github.io/cmdb-bootcamp/
 	- There are 14 parts. You only need to go through the first 7.
 	- This is estimated to take ~ 2 hrs.
 1. Pre-Assessment
-  - Part 1 & 2: [CL+Git](https://drive.google.com/file/d/1ZVeq5wtKGZK0tLe5noMs9JH2gd25azSk/view?usp=sharing)
-  - Part 3: [Python](https://drive.google.com/file/d/1rzCpzLJ3E8Eu6LJvzMdxelZGpIGEhovU/view?usp=sharing)
-  - Hard deadline: **Aug 29, 7pm ET**
-  - Email to TA upon completion
-  - This is estimated to take ~ 3 hrs.
+    - Part 1 & 2: [CL+Git](https://drive.google.com/file/d/1ZVeq5wtKGZK0tLe5noMs9JH2gd25azSk/view?usp=sharing)
+    - Part 3: [Python](https://drive.google.com/file/d/1rzCpzLJ3E8Eu6LJvzMdxelZGpIGEhovU/view?usp=sharing)
+    - Hard deadline: **Aug 29, 7pm ET**
+    - Email to TA upon completion
+    - This is estimated to take ~ 3 hrs.
 
 
 ### Pre-bootcamp Zoom icebreaker and office hours
