@@ -20,7 +20,7 @@ Agenda and additional information at http://bxlab.github.io/cmdb-bootcamp/
 1. Complete the "[The Unix Shell](http://swcarpentry.github.io/shell-novice)" lesson on MARCC [[video](https://youtu.be/ktIK9jhbpEM)][[slides](https://docs.google.com/presentation/d/1vFqfmfiOwnZ9c6GA6VlVgNDkUVkUh2qkhgwpxGZUPfg)]
 	- There are 7 parts. You only need to go through the first 4.
 	- This is estimated to take ~ 2 hrs.
-1. Complete the "[Version Control with Git](http://swcarpentry.github.io/git-novice)" lesson on MARCC [video][slides]
+1. Complete the "[Version Control with Git](http://swcarpentry.github.io/git-novice)" lesson on MARCC [[video](https://youtu.be/bZiU8zh2Y4E)][[slides](https://docs.google.com/presentation/d/1YCcQQ87eH2KW8jaZpGgpz3C7j97uERT12UWdx_UnYPA)]
 	- There are 14 parts. You only need to go through the first 7.
 	- This is estimated to take ~ 2 hrs.
 
