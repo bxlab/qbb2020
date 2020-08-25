@@ -127,7 +127,7 @@ The course is broke into four main **types of sessions**
 <table>
     <thead>
         <tr>
-            <th colspan=23>Morning</th>
+            <th colspan=2>Morning</th>
             <th colspan=2>Afternoon</th>
         </tr>
     </thead>
