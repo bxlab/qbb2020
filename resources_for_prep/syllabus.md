@@ -178,7 +178,7 @@ Notes on reflections:
   * As long as reflections attempt to respond to the above prompts, the content of the reflection will not affect a student’s grade in any way. See the [Grading](#Grading) section for further clarification.
   * We aim to keep reflections confidential. As such, only instructors, TAs, and the student will have access to a student’s reflections.
 
-<a name="Help"></a>
+<a name="Help"></a><a name="DOIT"></a>
 ## Asking for Help
 We both expect and encourage you to ask questions and request help throughout this course. Everyone is learning and there is no shame in having questions, not understanding what an instructor has said or typed, or needing to debug your code. Therefore, **please ask questions** about whatever and whenever you need to. We’ve written up guidelines below on how you can ask for help during each type of session.
 
