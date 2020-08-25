@@ -177,3 +177,11 @@ We expect these reflections to be short, but **respond to each of the following 
 Notes on reflections:
   * As long as reflections attempt to respond to the above prompts, the content of the reflection will not affect a student’s grade in any way. See the [Grading](#Grading) section for further clarification.
   * We aim to keep reflections confidential. As such, only instructors, TAs, and the student will have access to a student’s reflections.
+
+<a name="Help"></a>
+## Asking for Help
+We both expect and encourage you to ask questions and request help throughout this course. Everyone is learning and there is no shame in having questions, not understanding what an instructor has said or typed, or needing to debug your code. Therefore, **please ask questions** about whatever and whenever you need to. We’ve written up guidelines below on how you can ask for help during each type of session.
+
+<a name="HelpAsynch"></a>
+### Asynchronous Video Sessions
+At the beginning of **asynchronous video sessions**, a TA will post a poll in #bootcamp_2020 for tracking your completion of the session. React to this message with a <span style="color:yellow">:yellow_sticky:</span> once the poll is posted. After you finish the video, change your react to a <span style="color:green">:green_sticky:</span>. Make notes of any questions you have while watching the video. When everyone has joined the Zoom call for the next session, the Lead Instructor will ask for questions regarding the video content. You can then use the “raise hand” feature in Zoom to ask questions, and the Lead Instructor will answer them directly.
