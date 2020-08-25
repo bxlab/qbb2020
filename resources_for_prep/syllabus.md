@@ -159,3 +159,21 @@ Some mornings or afternoons may be fully interactive, with no asynchronous sessi
         </tr>
     </tbody>
 </table>
+
+<a name="Reflections"></a>
+### Daily Reflections
+We ask students to write **daily reflections** and email these to a TA by **6pm ET**. Since they will be turned in before completion of the day’s homework assignment, reflections should focus on the previous day’s homework and the current day’s lessons and lunch exercise. The purpose of reflections is threefold.
+1. First, because we can’t meet in person to discuss progress and struggles, we will use the reflections to better ascertain a student’s progress over the week.
+2. Second, we believe this exercise has the potential to grow a student’s understanding and confidence as they purposefully reflect and see their improvement.
+3. Third, this practice directly cultivates good habits in reproducible analysis and keeping a lab notebook.
+
+We expect these reflections to be short, but **respond to each of the following prompts**:
+  * What purpose did today’s lessons, my analysis, and my coding serve?
+  * How might I use what I did and learned today in the future?
+  * What was my greatest struggle?
+  * What was my greatest achievement?
+  * What one lingering question, bemusing, or idea (on theory, syntax, etc.) do I find most perplexing or exciting? 
+
+Notes on reflections:
+  * As long as reflections attempt to respond to the above prompts, the content of the reflection will not affect a student’s grade in any way. See the [Grading](#Grading) section for further clarification.
+  * We aim to keep reflections confidential. As such, only instructors, TAs, and the student will have access to a student’s reflections.
