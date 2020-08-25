@@ -50,11 +50,11 @@
 | Frederick Tan  | tan@carnegiescience.edu |
 
 <a name="TAs"></a>
-| Teaching Assistant      | Email            |
-| :---------------------- | :--------------- |
-| Rajiv McCoy             | kweave23@jhu.edu |
-| Michael Sauria          | syan@jhu.edu     |
-| Frederick Tan           | dtaylo95@jhu.edu |
+| Teaching Assistant | Email            |
+| :----------------- | :--------------- |
+| Kate Weaver        | kweave23@jhu.edu |
+| Steph Yan          | syan@jhu.edu     |
+| Dylan Taylor       | dtaylo95@jhu.edu |
 
 <a name="ClassMeetings"></a>
 **Class Meetings**<br />
@@ -247,3 +247,53 @@ All class participants agree to:
 We know that this is one of the least ideal situations in which to be starting your first year of grad school and taking an intensive week-long coding course. Our plan is to be as understanding as possible about grading, attendance, and any issues that come up. Please don’t hesitate to reach out to an instructor or TA if you are having issues, and we will do our best to accomodate you however we can.
 
 ![](https://raw.githubusercontent.com/bxlab/qbb2020/master/resources_for_prep/2020.gif)
+
+<a name="Technology"></a>
+## Technology
+
+<a name="Platforms"></a>
+### Platforms
+Several **platforms** will be utilized for communication and distribution of information. These include Github, MARCC, Slack, Zoom, Poll Everywhere, and OneDrive. Instructions and walkthroughs were previously provided for students to sign up for accounts through Github, MARCC, Slack, and Zoom. If for any reason you do not have one of these accounts, please contact a TA.
+
+<a name="Laptops"></a>
+### Laptops
+We provide **laptops** with pre-configured software and data. Students must sign a Macbook Pro Agreement Form before shipping or upon pickup of the laptop. Note these laptops are to be returned to the Biology office by 5/31/21 (as per the agreement form). Software issues should be communicated to TAs promptly. In contrast, report any hardware issues to the Biology office.
+
+<a name="Zoom"></a>
+### Zoom
+**Zoom** will be the primary means by which we meet in this course. Below are the links for each presentation and lecture session. These will also be available on the course website. All Zoom meetings, regardless of session, share the same passcode; however, for security purposes, the links do not have the passcode embedded. The passcode will be posted and pinned in the #bootcamp_2020 Slack channel.<br /><br />
+
+Students will be assigned to one of three Zoom meetings for lunch and homework exercise sessions. The links to these meetings, and the students assigned to each, will be posted on the course website daily. Again, the links will not contain the passcode.<br /><br />
+
+<a name="AMPres"></a>
+<ins>AM Presentations</ins>: https://JHUBlueJays.zoom.us/j/94041915085<br />
+(This is also the link for the Monday morning introductory session)
+
+<a name="AMLecture"></a>
+<ins>AM Interactive</ins>: https://JHUBlueJays.zoom.us/j/91883262698
+
+<a name="PMPres"></a>
+<ins>PM Presentations</ins>: https://JHUBlueJays.zoom.us/j/92682081868
+
+<a name="PMLecture"></a>
+<ins>PM Interactive</ins>: https://JHUBlueJays.zoom.us/j/98707721271
+
+<a name="WindowManagement"></a>
+## Window Management
+Due to the online nature of this course, you will often have to simultaneously **manage several windows**, and likely also several internet browser tabs, on one 13” laptop screen. Below, we’ve included suggested window configurations for the various types of sessions. These are not required, but we’ve provided recommendations so that you don’t have to spend time figuring them out.
+
+<a name="WeekSchedule"></a>
+## Full Bootcamp Schedule
+All time are ET.
+
+|                | Monday | Tuesday | Wednesday | Thursday | Friday |
+|:---------------:|:--------------------------------------:|:---------------------------------------:|:------------------------------------:|:---------------------------------------:|:--------------------------------------:|
+|   10:00 -  10:30 | Overview                              |  Homework Exercise Presentations | Homework Exercise Presentations | Homework Exercise Presentations | Homework Exercise Presentations |
+|   10:30 - 12:00 | Exploratory Data Analysis             | Functions & Data Structures         | The Unix Command Line               | Algorithms                             | Regression & Multiple Testing  |
+| Lunch Exercise | Data Visualization          | ID Mapping          | Genome Arithmetic         | Binary Search                          | Linear Regression                |
+|   3:00 -  3:30 | Lunch Exercise Presentations | Lunch Exercise Presentations | Lunch Exercise Presentations | Lunch Exercise Presentations | Lunch Exercise Presentations |
+|   3:30 -  5:00 | Basic Python   | The Python Ecosystem & Documentation   | Writing & Running Python Scripts  | Intro to Prediction & Inference      | RNA-seq & the Tuxedo Suite                                   |
+|       Homework | Parsing a SAM file                    | PCA with GTEx data           | Heuristic Sequence Alignment       | Power Analysis        | HAPPY HOUR!!!                         |
+{:.table.table-striped.well}
+
+Although the course formally starts at 10 am ET, please **sign in to Zoom by 9:45 am**.
