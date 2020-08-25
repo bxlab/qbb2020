@@ -246,4 +246,4 @@ All class participants agree to:
 ## The Pandemic
 We know that this is one of the least ideal situations in which to be starting your first year of grad school and taking an intensive week-long coding course. Our plan is to be as understanding as possible about grading, attendance, and any issues that come up. Please don’t hesitate to reach out to an instructor or TA if you are having issues, and we will do our best to accomodate you however we can.
 
-![2020](https://media.giphy.com/media/XdIOEZTt6dL7zTYWIo/giphy.gif)
+![](https://raw.githubusercontent.com/bxlab/qbb2020/master/resources_for_prep/2020.gif)
