@@ -1,4 +1,4 @@
-# AS.020.607        CMDB Quantitative Biology Bootcamp      Fall 2020
+# AS.020.607        CMDB Quantitative Biology Bootcamp        Fall 2020
 
 ## Table of Contents
 
@@ -39,6 +39,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[PM Lectures](#PMLecture)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;[Window Management](#WindowManagement)<br />
 [Full Bootcamp Schedule](#WeekSchedule)<br />
+
+# AS.020.607        CMDB Quantitative Biology Bootcamp        Fall 2020
 
 <a name="Instructors"></a>
 | Instructor     | Email                   |
