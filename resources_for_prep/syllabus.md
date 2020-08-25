@@ -93,5 +93,23 @@ Due to the intense nature of this course, there is a strict policy that students
 ### Types of Sessions
 The course is broke into four main **types of sessions**
 
+<a name="FormatAsynch"></a>
 1. <ins>Asynchronous **Video** Lecture Sessions</ins>
     * These sessions consist of short, pre-recorded videos that introduce the lecture topic and relevant background information. The videos will be posted to YouTube (or a similar platform) and linked on the course website.
+    * Students are responsible for watching and taking notes on these sessions, as they will not be hosted on Zoom.
+    * Students will have the opportunity to ask questions about the videos through, Slack or once the class reconvenes on Zoom for the following Interactive Session.
+<a name="FormatInter"></a>
+2. <ins>**Interactive** Lecture & **Live-Coding** Sessions</ins>
+    * These sessions will be held through Zoom and consist of interactive lectures and instructor-guided live-coding examples, which introduce and expand on material for the exercise sessions that occur directly afterward.
+    * Students should mute themselves while instructors are presenting unless involved in discussion or debugging.
+    * We ask that students join breakout rooms when asked and to use video in the breakout room if possible.
+    * The instructor will pause periodically to invite questions, let students catch up, and solicit Slack check-ins. See the next syllabus section, [Asking for help](#Help), on more specific information pertaining to questions and debugging in these sessions.
+    * These sessions will be recorded and posted to the private course OneDrive.
+<a name="FormatExercise"></a>
+3. <ins>**Exercise** Sessions (Lunch and Homework)</ins>
+    * These sessions will be held through three Zoom meetings, each hosted by a TA. Students are randomly split into pairs and assigned to one of the three meetings. In the meeting, pairs are sent to breakout rooms where they work together on the exercises.
+    * We encourage students to turn on their video if possible and utilize screen sharing to debug or discuss with their partners.
+    * While partners are expected to have very similar answers, students should put in individualized effort and strive to understand every line of code and analysis step they take. See the [Academic Integrity & Ethics](#Integrity) syllabus section for more information.
+    * Course-wide announcements and updates during these sessions will be posted to Slack.
+    * See the next syllabus section, [Asking for help](#Help), on more specific information pertaining to questions and debugging in these sessions.
+    * These sessions will not be recorded.
