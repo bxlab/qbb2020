@@ -189,7 +189,7 @@ At the beginning of **asynchronous video sessions**, a TA will post a poll in #b
 <a name="HelpInter"></a>
 ### Interactive/ Live-Coding Sessions
 During **interactive/ live-coding sessions**, one TA will be designated the Triage TA and is responsible for making sure questions are answered. The Lead Instructor for the session will announce the Triage TA at the beginning of the session, since it is a rotating role.
-  * Throughout the session, **keep the `#questions_2020 Slack` channel open**.
+  * Throughout the session, **keep the `#questions_2020` Slack channel open**.
     * If your question has already been posted by someone else and not answered in a verbal or thread response, please add a **:pink_sticky:** react to that post.
     * Perhaps your question is related to one that has already been posted. In that case, reply to the original post in a thread and add your question there. Alternatively, you can DM the Triage TA with your question and reference which post it is similar to.
     * If your question or a similar one has not been posted yet, please make a new post in `#questions_2020`. If you are not comfortable posting your question, you can DM the Triage TA, who will anonymously post it in the channel for you.
@@ -200,3 +200,30 @@ During **interactive/ live-coding sessions**, one TA will be designated the Tria
     * **:pink_sticky:** react if you need assistance. The Triage TA will pair an instructor or TA with you and send you to a breakout room to be helped. Once you’re ready to move on, change your react to a :green_sticky:.
     *  Once only ~2-4 students need assistance, the Triage TA will announce in Slack that we will be moving on. At this point, if you are in a breakout room, you should feel welcome to rejoin the main session and continue your discussion with the TA/instructor over Slack, or you can remain in the breakout room. If your instructor or TA thinks that your troubleshooting requires it, they will ask that the class continues to pause.
   * If the Lead Instructor prompts the class to ask questions verbally, use the “raise hand” feature in Zoom and unmute to talk.
+
+<a name="HelpExercise"></a>
+### Lunch/ Homework Exercises
+During **Lunch** or **Homework Exercises**, students will be paired and sent into breakout rooms within one of three Zoom meetings, each run by a different TA. **Please be patient** with your TA, as each of them has approximately 10 students to help and the instructors will not always be available to assist.
+  * TAs will hop through breakout rooms every ~15-30 minutes to check on students’ progress and ask if they need help. TAs will let the groups know when they begin and end this hopping. Otherwise, the TA will be in the main meeting room. Screen sharing will be the primary means for TAs to review and debug students’ work.
+  * When a TA is not breakout room surfing, students may leave their breakout room to ask the TA questions in the main room. Note that several pairs may be in the main meeting room at the same time. Screen sharing will be the primary means for TAs to review and debug students’ work. Once their question is answered, students will be returned to their breakout room by the TA.
+  * Students may also remain in their breakout rooms and Slack questions to their TA. The TA will respond when back in the main meeting room, and will attempt to utilize a queue system such that they answer questions based on when the question was asked. In this case, screenshots or markdown formatted code will be the primary means for TAs to review and debug students’ work. TAs may also ask the students to join them in the main room if the TA feels that screen sharing would be better for debugging.
+  * Finally, TAs (from all three Zoom meetings) will post relevant/common questions, observations, and hints in the `#questions_2020` channel at their discretion. Students should feel free to interact with any of these posts.
+
+<a name="HelpPres"></a>
+### Presentations
+During **Presentations**, **please wait to ask questions until the presenting student(s) have finished**. You may slack any TA during the presentation, but it is likely in your best interest to wait until questions or comments are solicited by the Lead Instructor.
+
+<a name="Googling"></a>
+### Googling
+**Googling** is always an acceptable way to find answers or help, and we encourage you to utilize it extensively. A Tuesday lesson will give you some useful tips on Googling error messages. If you adopt a solution following a Google search, make sure you understand what you incorporate, rather than just copy/pasting without comprehension of the logic or code. Please see the [Academic Integrity & Ethics](#Integrity) syllabus section for more on this.
+
+<a name="Grading"></a>
+## Grading
+The grading for this course is based on **reasonable completion**. For each lunch and homework exercise session, students will be advised which exercises are required and which are advanced or optional. Additionally, students will be asked to upload certain Jupyter notebooks, scripts, and results (outputs or plots, etc.) to their personal Github repositories, qbb2020-answers. For lunch exercises, these materials should be pushed to the repository by the end of the lunch exercise session. For homework exercises, these materials should be pushed to the repository by the beginning of the next morning session.<br /><br />
+
+TAs will verify that the student’s submitted work shows a reasonable level of individual effort. Finally, students will have one week post-bootcamp to submit any leftover materials. Letter grades will be assigned in line with the level of completion. While student presentations and the content of daily reflections will not affect grades in any way, failure to turn in daily reflections has the potential to lower the final grade.<br /><br />
+
+General guidelines for letter grade assignments:
+  * A (excellent): 90-100% completion
+  * B (passing): 80-90% completion
+  * C or lower (not passing): <80% completion
