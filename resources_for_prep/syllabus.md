@@ -227,3 +227,23 @@ General guidelines for letter grade assignments:
   * A (excellent): 90-100% completion
   * B (passing): 80-90% completion
   * C or lower (not passing): <80% completion
+
+<a name="Integrity"></a>
+## Academic Integrity & Ethics
+Academic and scientific institutions and research depend on honesty and integrity. You should be completing your lunch and homework exercises and your work should not plagiarize others -- including group partners, presenters, and strangers posting to online forums or blogs. You and your partner should be working together, but both persons should be writing and turning in unique, individualized code. Note your scripts and analysis may follow the same logic steps and even have tidbits of the same code, but no one person should be writing the solution the whole group uses character for character. Additionally, you should understand every line of code you write, are given and use, or find online and incorporate. If asked to, you should be able to explain exactly what your code is doing. Another aspect is properly acknowledging the source of  borrowed code. Understanding can be cultivated and acknowledgement implemented by writing both inline and multiline comments (which is a terrific practice in general). Relatedly, don’t give someone code to copy and paste. Make sure any recipient can explain back to you any gifted code. See the university’s guidelines on plagiarism for details and contact a TA with any questions.
+
+<a name="CodeofConduct"></a>
+## Code of Conduct
+We are committed to creating a welcoming, inclusive, and harassment-free environment for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), political beliefs/leanings, or technology choices. We do not tolerate harassment in any form. This code of conduct applies to all course participants, including instructors and TAs, and to all modes of interaction, including Zoom meetings, Slack messages, and emails.<br /><br />
+ 
+All class participants agree to:
+  * **Be considerate and polite**. Bootcamp is a stressful and sometimes frustrating week for everyone. In addition, the collaborative nature of this course means it is essential that students are respectful of each other’s questions and points of confusion. Remember that you all are coming into this program with a wide range of coding backgrounds. A community where people feel uncomfortable is not conducive for learning.
+  * **Work together cooperatively**. Be kind when giving feedback on your classmates’ code, and make an effort to help if they are stuck. You will gain much more from explaining concepts to someone else than you will from rushing through the assignments on your own.
+  * **Refrain from demeaning, discriminatory, or harassing behavior and speech**. Harassment includes, but is not limited to: deliberate intimidation; stalking; unwanted photography or recording; sustained or willful disruption of talks or other events; inappropriate physical contact; use of sexual or discriminatory imagery, comments, or jokes; and unwelcome sexual attention. If you feel that someone has harassed you or otherwise treated you inappropriately, please alert one of the instructors or TAs.
+  * **Refrain from advocating for, or encouraging, negative behavior**. And, if someone asks you to stop, then stop. Alert an instructor or TA if you notice a dangerous situation, someone in distress, or violations of this code of conduct, no matter how inconsequential it seems.
+
+<a name="Pandemic"></a>
+## The Pandemic
+We know that this is one of the least ideal situations in which to be starting your first year of grad school and taking an intensive week-long coding course. Our plan is to be as understanding as possible about grading, attendance, and any issues that come up. Please don’t hesitate to reach out to an instructor or TA if you are having issues, and we will do our best to accomodate you however we can.
+
+![2020](https://media.giphy.com/media/XdIOEZTt6dL7zTYWIo/giphy.gif)
