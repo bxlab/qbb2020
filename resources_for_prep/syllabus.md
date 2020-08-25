@@ -41,3 +41,7 @@
 [Full Bootcamp Schedule](#WeekSchedule)<br />
 
 <a name="Instructors"></a>
+**Instructors** | Rajiv McCoy | rajiv.mccoy@jhu.edu
+:--- | :--- | :---
+  | Michael Sauria | msauria1@jhu.edu
+  | Frederick Tan | tan@carnegiescience.edu
