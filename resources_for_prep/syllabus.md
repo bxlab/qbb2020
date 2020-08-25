@@ -184,4 +184,19 @@ We both expect and encourage you to ask questions and request help throughout th
 
 <a name="HelpAsynch"></a>
 ### Asynchronous Video Sessions
-At the beginning of **asynchronous video sessions**, a TA will post a poll in #bootcamp_2020 for tracking your completion of the session. React to this message with a <span style="color:yellow">:yellow_sticky:</span> once the poll is posted. After you finish the video, change your react to a <span style="color:green">:green_sticky:</span>. Make notes of any questions you have while watching the video. When everyone has joined the Zoom call for the next session, the Lead Instructor will ask for questions regarding the video content. You can then use the “raise hand” feature in Zoom to ask questions, and the Lead Instructor will answer them directly.
+At the beginning of **asynchronous video sessions**, a TA will post a poll in #bootcamp_2020 for tracking your completion of the session. React to this message with a **:yellow_sticky:** once the poll is posted. After you finish the video, change your react to a **:green_sticky:**. Make notes of any questions you have while watching the video. When everyone has joined the Zoom call for the next session, the Lead Instructor will ask for questions regarding the video content. You can then use the “raise hand” feature in Zoom to ask questions, and the Lead Instructor will answer them directly.
+
+<a name="HelpInter"></a>
+### Interactive/ Live-Coding Sessions
+During **interactive/ live-coding sessions**, one TA will be designated the Triage TA and is responsible for making sure questions are answered. The Lead Instructor for the session will announce the Triage TA at the beginning of the session, since it is a rotating role.
+  * Throughout the session, **keep the `#questions_2020 Slack` channel open**.
+    * If your question has already been posted by someone else and not answered in a verbal or thread response, please add a **:pink_sticky:** react to that post.
+    * Perhaps your question is related to one that has already been posted. In that case, reply to the original post in a thread and add your question there. Alternatively, you can DM the Triage TA with your question and reference which post it is similar to.
+    * If your question or a similar one has not been posted yet, please make a new post in `#questions_2020`. If you are not comfortable posting your question, you can DM the Triage TA, who will anonymously post it in the channel for you.
+    * Note that we assume a question is “closed” once it has been answered. However, you may still be confused. In that case, please reply to the thread (and @ the Triage TA), or DM the Triage TA.
+  * For most live-coding sessions, the Lead Instructor will solicit **Check Ins** every 10-15 minutes, asking students to respond to a poll in **`#bootcamp_2020`** about whether they are ready to move on to the next section.
+    * **:green_sticky:** react if you’re following along and are ready to move on.
+    * **:yellow_sticky:** react if you’re catching up/not ready to move on, but do not need assistance. Change to a :green_sticky: or :pink_sticky: as needed.
+    * **:pink_sticky:** react if you need assistance. The Triage TA will pair an instructor or TA with you and send you to a breakout room to be helped. Once you’re ready to move on, change your react to a :green_sticky:.
+    *  Once only ~2-4 students need assistance, the Triage TA will announce in Slack that we will be moving on. At this point, if you are in a breakout room, you should feel welcome to rejoin the main session and continue your discussion with the TA/instructor over Slack, or you can remain in the breakout room. If your instructor or TA thinks that your troubleshooting requires it, they will ask that the class continues to pause.
+  * If the Lead Instructor prompts the class to ask questions verbally, use the “raise hand” feature in Zoom and unmute to talk.
