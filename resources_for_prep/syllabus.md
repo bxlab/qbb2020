@@ -294,6 +294,5 @@ All time are ET.
 |   3:00 -  3:30 | Lunch Exercise Presentations | Lunch Exercise Presentations | Lunch Exercise Presentations | Lunch Exercise Presentations | Lunch Exercise Presentations |
 |   3:30 -  5:00 | Basic Python   | The Python Ecosystem & Documentation   | Writing & Running Python Scripts  | Intro to Prediction & Inference      | RNA-seq & the Tuxedo Suite                                   |
 |       Homework | Parsing a SAM file                    | PCA with GTEx data           | Heuristic Sequence Alignment       | Power Analysis        | HAPPY HOUR!!!                         |
-{:.table.table-striped.well}
 
 Although the course formally starts at 10 am ET, please **sign in to Zoom by 9:45 am**.
