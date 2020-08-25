@@ -93,5 +93,5 @@ Due to the intense nature of this course, there is a strict policy that students
 ### Types of Sessions
 The course is broke into four main **types of sessions**
 
-1. __Asynchronous **Video** Lecture Sessions__
-  * These sessions consist of short, pre-recorded videos that introduce the lecture topic and relevant background information. The videos will be posted to YouTube (or a similar platform) and linked on the course website.
+1. <span style="text-decoration: underline">Asynchronous **Video** Lecture Sessions</span>
+    * These sessions consist of short, pre-recorded videos that introduce the lecture topic and relevant background information. The videos will be posted to YouTube (or a similar platform) and linked on the course website.
