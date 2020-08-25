@@ -113,3 +113,40 @@ The course is broke into four main **types of sessions**
     * Course-wide announcements and updates during these sessions will be posted to Slack.
     * See the next syllabus section, [Asking for help](#Help), on more specific information pertaining to questions and debugging in these sessions.
     * These sessions will not be recorded.
+<a name="FormatPres"></a>
+4. <ins>Student **Presentation** Sessions</ins>
+    * These sessions will be hosted through Zoom. Pairs of students will informally present their code and results from the most recent exercise.
+    * Instructors will provide feedback, and invite questions and discussion among the whole class on alternative approaches and solutions.
+    * Students should mute themselves unless presenting or participating in the discussion. We also ask that students turn on their video if possible to create a more welcoming environment for the students presenting.
+    * These sessions will be recorded and posted to the private OneDrive.
+    * Presentations are **ungraded**
+    * Typically, these sessions precede the asynchronous video sessions.
+
+<a name="DaySchedule"></a>
+### Daily Schedule
+<table>
+    <thead>
+        <tr>
+            <th>Layer 1</th>
+            <th>Layer 2</th>
+            <th>Layer 3</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=4>L1 Name</td>
+            <td rowspan=2>L2 Name A</td>
+            <td>L3 Name A</td>
+        </tr>
+        <tr>
+            <td>L3 Name B</td>
+        </tr>
+        <tr>
+            <td rowspan=2>L2 Name B</td>
+            <td>L3 Name C</td>
+        </tr>
+        <tr>
+            <td>L3 Name D</td>
+        </tr>
+    </tbody>
+</table>
