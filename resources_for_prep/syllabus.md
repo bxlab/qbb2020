@@ -124,6 +124,7 @@ The course is broke into four main **types of sessions**
 
 <a name="DaySchedule"></a>
 ### Daily Schedule
+Some mornings or afternoons may be fully interactive, with no asynchronous sessions. We will let you know this in advance through Slack. However, the **daily schedule** will generally be:
 <table>
     <thead>
         <tr>
@@ -137,6 +138,24 @@ The course is broke into four main **types of sessions**
             <td>Presentations</td>
             <td>15:00</td>
             <td>Presentations</td>
+        </tr>
+        <tr>
+            <td>10:30</td>
+            <td>Video</td>
+            <td>15:30</td>
+            <td>Video</td>
+        </tr>
+        <tr>
+            <td>10:45</td>
+            <td>Interactive</td>
+            <td>15:45</td>
+            <td>Interactive</td>
+        </tr>
+        <tr>
+            <td>12:00</td>
+            <td>Exercises</td>
+            <td>17:00</td>
+            <td>Exercises</td>
         </tr>
     </tbody>
 </table>
