@@ -10,7 +10,7 @@
 [Specific Objectives](#Objectives)<br />
 [Study Materials](#StudyMats)<br />
 [Course Format](#Format)<br />
-&nbsp;&nbsp;&nbsp;&nbsp;[No Other Meetings](#BootcampFirst)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;[Attendance](#Attendance)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;[Types of Sessions](#Sessions)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Asynchronous](#FormatAsynch)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Interactive](#FormatInter)<br />
@@ -85,9 +85,12 @@ This course does not have a required text. Any lecture notes or slides will be m
 <a name="Format"></a>
 ## Course Format
 
-<a name="BootcampFirst"></a>
-### No Other Meetings
-Due to the intense nature of this course, there is a strict policy that students **cannot participate in any other meetings, courses, or lab work throughout the week.** If a student foresees problems with this, they should contact a TA immediately so that this policy can be communicated to the necessary parties.
+<a name="Attendance"></a>
+### Attendance
+Due to the interactive nature of this course, there is a policy that students **should not participate in any other meetings, courses, or lab work throughout the week**. We recognize that this year is unique in that elective courses may begin concurrent with bootcamp. However, as a core CMDB course, bootcamp should take priority. If a student foresees attendance conflicts among their courses, they should contact a TA immediately so that this policy can be communicated to the necessary parties.<br /><br />
+
+Please be on time for course activities, and budget extra time in anticipation of technical delays. Your attendance is expected during all synchronous sessions and your effort is also expected during asynchronous sessions. Exceptions have been specifically granted for students in distant time zones. Please let us know about any emergencies, family responsibilities, illness, etc. that may prevent attendance, and we will work to accommodate reasonable requests.
+
 
 <a name="Sessions"></a>
 ### Types of Sessions
@@ -280,7 +283,21 @@ Students will be assigned to one of three Zoom meetings for lunch and homework e
 
 <a name="WindowManagement"></a>
 ## Window Management
-Due to the online nature of this course, you will often have to simultaneously **manage several windows**, and likely also several internet browser tabs, on one 13” laptop screen. Below, we’ve included suggested window configurations for the various types of sessions. These are not required, but we’ve provided recommendations so that you don’t have to spend time figuring them out.
+Due to the online nature of this course, you will often have to simultaneously **manage several windows**, and likely also several internet browser tabs, on one 13” laptop screen. Below, we’ve included suggested window configurations for the various types of sessions. These are not required, but we’ve provided recommendations so that you don’t have to spend time figuring them out.<br /><br />
+
+**Aysnchronous Sessions**
+![](https://raw.githubusercontent.com/bxlab/qbb2020/master/resources_for_prep/async.jpg)
+
+**Interactive/ Live-Coding Sessions**
+![](https://raw.githubusercontent.com/bxlab/qbb2020/master/resources_for_prep/live_coding_jupyter.jpg)
+![](https://raw.githubusercontent.com/bxlab/qbb2020/master/resources_for_prep/live_coding_terminal_editor.jpg)
+
+**Exercise Sessions**
+![](https://raw.githubusercontent.com/bxlab/qbb2020/master/resources_for_prep/exercise_jupyter.gif)
+![](https://raw.githubusercontent.com/bxlab/qbb2020/master/resources_for_prep/exercise_terminal_editor.gif)
+
+**Presentation Sessions**
+![](https://raw.githubusercontent.com/bxlab/qbb2020/master/resources_for_prep/presentations.jpg)
 
 <a name="WeekSchedule"></a>
 ## Full Bootcamp Schedule
