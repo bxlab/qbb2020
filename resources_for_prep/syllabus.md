@@ -91,7 +91,6 @@ Due to the interactive nature of this course, there is a policy that students **
 
 Please be on time for course activities, and budget extra time in anticipation of technical delays. Your attendance is expected during all synchronous sessions and your effort is also expected during asynchronous sessions. Exceptions have been specifically granted for students in distant time zones. Please let us know about any emergencies, family responsibilities, illness, etc. that may prevent attendance, and we will work to accommodate reasonable requests.
 
-
 <a name="Sessions"></a>
 ### Types of Sessions
 The course is broke into four main **types of sessions**
@@ -285,18 +284,18 @@ Students will be assigned to one of three Zoom meetings for lunch and homework e
 ## Window Management
 Due to the online nature of this course, you will often have to simultaneously **manage several windows**, and likely also several internet browser tabs, on one 13” laptop screen. Below, we’ve included suggested window configurations for the various types of sessions. These are not required, but we’ve provided recommendations so that you don’t have to spend time figuring them out.<br /><br />
 
-**Aysnchronous Sessions**
+**Aysnchronous Sessions**<br />
 ![](https://raw.githubusercontent.com/bxlab/qbb2020/master/resources_for_prep/async.jpg)
 
-**Interactive/ Live-Coding Sessions**
+**Interactive/ Live-Coding Sessions**<br />
 ![](https://raw.githubusercontent.com/bxlab/qbb2020/master/resources_for_prep/live_coding_jupyter.jpg)
 ![](https://raw.githubusercontent.com/bxlab/qbb2020/master/resources_for_prep/live_coding_terminal_editor.jpg)
 
-**Exercise Sessions**
+**Exercise Sessions**<br />
 ![](https://raw.githubusercontent.com/bxlab/qbb2020/master/resources_for_prep/exercise_jupyter.gif)
 ![](https://raw.githubusercontent.com/bxlab/qbb2020/master/resources_for_prep/exercise_terminal_editor.gif)
 
-**Presentation Sessions**
+**Presentation Sessions**<br />
 ![](https://raw.githubusercontent.com/bxlab/qbb2020/master/resources_for_prep/presentations.jpg)
 
 <a name="WeekSchedule"></a>
