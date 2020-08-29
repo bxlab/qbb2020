@@ -21,12 +21,17 @@ Pace yourself to complete all the basic exercises.  If time permits, see if you 
         ax[1].plot( x2, y2 )
         plt.show()
 
-1. Tidy up the plot of K4 chromosome distributions so that it is easier to understand e.g. plot chromosomes in order.
+1. Tidy up the plot of K4 chromosome distributions so that it is easier to understand. This includes but is not limited to the following.
+  * Plot chromosomes in order
+  * Add a title
+  * Add an x-axis label
+  * Add a y-axis label
 
-        fig, ax = plt.subplots()
-        ax.bar( chr_k4.index, chr_k4 )
-        plt.show()
-
+  ```
+  fig, ax = plt.subplots()
+  ax.bar( chr_k4.index, chr_k4 )
+  plt.show()
+  ```
 1. Plot K4, K9, and K27 chromosome distributions on the same plot as subplots.
 
 1. Plot K4, K9, and K27 width distributions on the same plot as subplots.
@@ -47,4 +52,3 @@ Pace yourself to complete all the basic exercises.  If time permits, see if you 
     `qbb2020/data/replicates.csv`
 
 1. Create an [MA plot](https://en.wikipedia.org/wiki/MA_plot) for two samples of your choice.
-
