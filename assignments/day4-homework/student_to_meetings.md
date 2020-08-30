@@ -1,7 +1,7 @@
 ## day4 homework qbb2020
 
 ### Meeting 1 with Kate
-[Meeting link]()
+[Meeting link](https://jhubluejays.zoom.us/j/98448517762)
 
 * Andrew Bortvin
 * Brenda Cesar
@@ -15,7 +15,7 @@
 * Jonathan Seaman
 
 ### Meeting 2 with Dylan
-[Meeting link]()
+[Meeting link](https://jhubluejays.zoom.us/j/95019730708)
 
 * Jonathan Fischer
 * Sammie Goetting
@@ -30,7 +30,7 @@
 
 
 ### Meeting 3 with Steph
-[Meeting link]()
+[Meeting link](https://jhubluejays.zoom.us/j/93409011198)
 
 * Joshua Derrick
 * Acadia Grimme

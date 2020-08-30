@@ -1,7 +1,7 @@
 ## day4 lunch qbb2020
 
 ### Meeting 1 with Steph
-[Meeting link]()
+[Meeting link](https://jhubluejays.zoom.us/j/95594596580)
 
 * Austin Chiappetta
 * Joshua Derrick
@@ -15,7 +15,7 @@
 * Angela Xu
 
 ### Meeting 2 with Kate
-[Meeting link]()
+[Meeting link](https://jhubluejays.zoom.us/j/98502509663)
 
 * Andrew Bortvin
 * Brenda Cesar
@@ -29,7 +29,7 @@
 * Jim Mullin
 
 ### Meeting 3 with Dylan
-[Meeting link]()
+[Meeting link](https://jhubluejays.zoom.us/j/99084326763)
 
 * Jonathan Fischer
 * Sammie Goetting

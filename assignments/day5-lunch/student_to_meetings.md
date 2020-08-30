@@ -1,7 +1,7 @@
 ## day5 lunch qbb2020
 
 ### Meeting 1 with Kate
-[Meeting link]()
+[Meeting link](https://jhubluejays.zoom.us/j/95128275964)
 
 * Andrew Bortvin
 * Jonathan Fischer
@@ -15,7 +15,7 @@
 * David Wang
 
 ### Meeting 2 with Dylan
-[Meeting link]()
+[Meeting link](https://jhubluejays.zoom.us/j/93328460800)
 
 * Brenda Cesar
 * Austin Chiappetta
@@ -29,7 +29,7 @@
 * Jonathan Seaman
 
 ### Meeting 3 with Steph
-[Meeting link]()
+[Meeting link](https://jhubluejays.zoom.us/j/98621848236)
 
 * Sadhana Chidambaran
 * Sammie Goetting

@@ -1,7 +1,7 @@
 ## day2 homework qbb2020
 
 ### Meeting 1 with Steph
-[Meeting link]()
+[Meeting link](https://jhubluejays.zoom.us/j/98436002238)
 
 * Andrew Bortvin
 * Joshua Derrick
@@ -15,7 +15,7 @@
 * Robyn Stix
 
 ### Meeting 2 with Dylan
-[Meeting link]()
+[Meeting link](https://jhubluejays.zoom.us/j/91555118422)
 
 * Brenda Cesar
 * Austin Chiappetta
@@ -30,7 +30,7 @@
 
 
 ### Meeting 3 with Kate
-[Meeting link]()
+[Meeting link](https://jhubluejays.zoom.us/j/92992068556)
 
 * Sadhana Chidambaran
 * Acadia Grimme
