@@ -36,9 +36,9 @@ Pace yourself to complete all the basic exercises.  If time permits, see if you 
 
 1. Plot K4, K9, and K27 width distributions on the same plot as subplots.
 
-1. Plot a time course of FBtr0331261 with each sex is a separate series.
-
 ## Advanced Exercise
+
+1. Plot a time course of FBtr0331261 with each sex is a separate series.
 
 1. Plot K4, K9, and K27 width distributions on a single plot without using subplots.
 
