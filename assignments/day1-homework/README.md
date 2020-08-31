@@ -3,30 +3,29 @@
 For this assignment we will be working with a [.SAM file](https://samtools.github.io/hts-specs/SAMv1.pdf). We would normally use `samtools` to generate the file. Instead, you'll need to download it.
 
 ```
-wget  https://bx.bio.jhu.edu/track-hubs/cmdb/SRR072893.sam
+wget  https://bx.bio.jhu.edu/track-hubs/cmdb/c
 ```
 While downloading, familiarize yourself with its [format](https://samtools.github.io/hts-specs/SAMv1.pdf).
+
+**TIP:** You may find it very helpful to view this file *on the command line* (not in a Jupyter Python notebook!) using `less -S`:
+
+```
+less -S SRR072893.sam
+```
+
+Press the `Q` key to quit from this view.
 
 <!-- ```shell
 /Users/cmdb/qbb2020-answers/day1-evening/ $ samtools view /Users/cmdb/data/results/SRR072893.bam > SRR072893.sam
 ``` -->
 
-It may be helpful to debug your code using a small subset of reads so things run faster. You can create this using the `head` command in bash.
+It may also be helpful to debug your code using a small subset of reads so things run faster. You can create this using the `head` command in bash.
 
 ```shell
-/Users/cmdb/qbb2020-answers/day1-evening/ $ head -n 1000 SRR072893.sam > debug.sam
+head -n 1000 SRR072893.sam > debug.sam
 ```
 
-For each question, submit **two** files to your GitHub repository:
-
-- Python code that produces the answer (`day1-evening-#.py`)
-- Your output (`day1-evening-#.out`)
-
-Here's one way to catch the output:
-
-```shell
-/Users/cmdb/qbb2020-answers/day1-evening $ ./day1-exercise1.py > day1-exercise1.out
-```
+For each question, submit a Jupyter notebook file that contains your Python code and your output. Suggested name: `day1-evening-#.ipynb`.
 
 **Basic Exercises**
 
