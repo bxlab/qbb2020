@@ -5,6 +5,9 @@ For this assignment we will be working with a [.SAM file](https://samtools.githu
 ```
 wget  https://bx.bio.jhu.edu/track-hubs/cmdb/SRR072893.sam
 ```
+
+**Please make sure not to add, commit, or push this `.sam` file to GitHub**
+
 While downloading, familiarize yourself with its [format](https://samtools.github.io/hts-specs/SAMv1.pdf).
 
 <!-- ```shell
