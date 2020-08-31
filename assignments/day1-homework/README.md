@@ -1,10 +1,15 @@
 # QBB2020 - Day 1 - Evening Exercise
 
-For this assignment we will be working with a [.SAM file](https://samtools.github.io/hts-specs/SAMv1.pdf). Use the following command to generate a .SAM file, and familiarize yourself with its [format](https://samtools.github.io/hts-specs/SAMv1.pdf).
+For this assignment we will be working with a [.SAM file](https://samtools.github.io/hts-specs/SAMv1.pdf). We would normally use `samtools` to generate the file. Instead, you'll need to download it.
 
-```shell
-/Users/cmdb/qbb2020-answers/day1-evening/ $ samtools view /Users/cmdb/data/results/SRR072893.bam > SRR072893.sam
 ```
+wget  https://bx.bio.jhu.edu/track-hubs/cmdb/SRR072893.sam
+```
+While downloading, familiarize yourself with its [format](https://samtools.github.io/hts-specs/SAMv1.pdf).
+
+<!-- ```shell
+/Users/cmdb/qbb2020-answers/day1-evening/ $ samtools view /Users/cmdb/data/results/SRR072893.bam > SRR072893.sam
+``` -->
 
 It may be helpful to debug your code using a small subset of reads so things run faster. You can create this using the `head` command in bash.
 
