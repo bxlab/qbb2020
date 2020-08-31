@@ -3,7 +3,7 @@
 For this assignment we will be working with a [.SAM file](https://samtools.github.io/hts-specs/SAMv1.pdf). We would normally use `samtools` to generate the file. Instead, you'll need to download it.
 
 ```
-wget  https://bx.bio.jhu.edu/track-hubs/cmdb/c
+wget https://bx.bio.jhu.edu/track-hubs/cmdb/SRR072893.sam
 ```
 
 **Please make sure not to add, commit, or push this `.sam` file to GitHub!**
@@ -45,7 +45,7 @@ For each question, submit a Jupyter notebook file that contains your Python code
     - HINT: think about string and numeric type conversions
 5. Count number of reads that start their alignment on chromosome 2L between base 10000 and 20000 (inclusive)
 
-## Advanced Exercises**
+## Advanced Exercises
 
 1. How many reads map to the reverse strand?
     - HINT 1: sam flag 0x10 bit
