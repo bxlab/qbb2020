@@ -5,6 +5,9 @@ For this assignment we will be working with a [.SAM file](https://samtools.githu
 ```
 wget  https://bx.bio.jhu.edu/track-hubs/cmdb/c
 ```
+
+**Please make sure not to add, commit, or push this `.sam` file to GitHub**
+
 While downloading, familiarize yourself with its [format](https://samtools.github.io/hts-specs/SAMv1.pdf).
 
 **TIP:** You may find it very helpful to view this file *on the command line* (not in a Jupyter Python notebook!) using `less -S`:
