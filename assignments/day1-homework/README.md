@@ -32,7 +32,7 @@ head -n 1000 SRR072893.sam > debug.sam
 
 ## Homework Submission
 
-For each question, submit a Jupyter notebook file that contains your Python code and your output. Suggested name: `day1-evening-#.ipynb`.
+Submit a Jupyter notebook file (or multiple files!) that contains your Python code and your output. Suggested name: `day1-evening-#.ipynb`.
 
 ## Basic Exercises
 
