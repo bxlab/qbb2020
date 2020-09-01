@@ -20,9 +20,9 @@ using the command:
 $ wget "http://www.uniprot.org/docs/fly.txt"
 ```
 
-Opening `fly.txt` this looks difficult to parse. It has a free form header 
-and footer, and has rows with different numbers of fields and no clear 
-delimiter. One could certainly parse this file by determining field widths, 
+Opening `fly.txt` this looks difficult to parse. It has a free form header
+and footer, and has rows with different numbers of fields and no clear
+delimiter. One could certainly parse this file by determining field widths,
 and tracking when the header ends, etc.
 
 However, if you look at the data the fields we need are only on the lines
@@ -43,15 +43,23 @@ first containg the FlyBase ID and the second the Uniprot ID (AC).
 
 ## 2. Identifier mapping
 
-Write a python script for identifier mapping. Your script should take as input
-the mapping file (as above) and a c_tab file from StringTie and find the
-corresponding translation from the mapping file. If found, it should print the
-line from the c_tab file, replacing the `gene_id` field with the translated 
-identifier. If not found, it should do one of two things depending on a command 
+Write a python script for identifier mapping.<br /><br />
+Your script should take as input two files.
+  1. the mapping file , `fly.text` (as retrieved and explained above)
+  2. a c_tab file from StringTie
+      * You have a file `SRP004442.stringtie.tar.gz`. This is found in your `~/data/results/` directory.
+      * You need to run `tar -xzf SRP004442.stringtie.tar.gz` to unpack this file
+          * If this command throws an error, you should alternatively use `wget`, specifically: `wget https://bx.bio.jhu.edu/track-hubs/cmdb/t_data.ctab`
+      * Then your c_tab file specifically is `~/data/results/stringtie/SRR072893/t_data.ctab`
+
+
+Your script should find the corresponding translation from the mapping file. If found, it should print the
+line from the c_tab file, replacing the `gene_id` field with the translated
+identifier. If not found, it should do one of two things depending on a command
 line argument:
 
   1. Print nothing (ignore the line)
-  2. Print and fill the field with a default value specified on the 
+  2. Print and fill the field with a default value specified on the
      command line.
 
 ## Submit
