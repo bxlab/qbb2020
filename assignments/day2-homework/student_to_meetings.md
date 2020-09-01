@@ -4,15 +4,15 @@
 [Meeting link](https://jhubluejays.zoom.us/j/98436002238)
 
 * Andrew Bortvin
-* Joshua Derrick
+* Acadia Grimme
 * Sammie Goetting
 * Audrey Heffner
 * Catherine Henderson
 * Jeff Liao
 * Frank Liu
 * Jim Mullin
-* Jonathan Seaman
-* Robyn Stix
+* Leah Pappalardo
+* Nat Klein
 
 ### Meeting 2 with Dylan
 [Meeting link](https://jhubluejays.zoom.us/j/91555118422)
@@ -33,10 +33,9 @@
 [Meeting link](https://jhubluejays.zoom.us/j/92992068556)
 
 * Sadhana Chidambaran
-* Acadia Grimme
 * Frankie Hernandez
 * Radhika Jangi
-* Nat Klein
 * Matt Lubin
-* Leah Pappalardo
 * Joanna Portillo
+* Jonathan Seaman
+* Joshua Derrick
