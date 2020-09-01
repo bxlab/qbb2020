@@ -56,14 +56,16 @@ Your script should take as input two files and one argument that will affect fun
 
 Your script should find the corresponding translation from the mapping file. If found, it should print the
 line from the c_tab file, replacing the `gene_id` field with the translated
-identifier (**the UniProt ID**). If not found, it should do one of two things depending on a command
+identifier (**the UniProt ID**). If not found, it should do one of two things depending on the value of the third command
 line argument (or a function argument if using Jupyter):
 
   1. Print nothing (ignore the line)
+    * This should occur when a specific value is given for the third command line argument
   2. Print and fill the field with a default value specified on the
      command line.
+    * This should occur if the value of the third command line argument is **NOT** the value chosen to ignore the line
 
-     * **NOTE:** We only want the first 100 lines of output displayed in the notebook or in an output file
+  **NOTE:** We only want the first 100 lines of output displayed in the notebook or in an output file
 
 ## Submit
 **DO NOT git add, commit, or push the two input files**
