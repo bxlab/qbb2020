@@ -44,13 +44,14 @@ first containg the FlyBase ID and the second the Uniprot ID (AC). This is your p
 ## 2. Identifier mapping
 
 Write a **python script** for identifier mapping. (Alternatively, you may use a Jupyter Notebook, but only if you use a function.) <br /><br />
-Your script should take as input two files.
+Your script should take as input two files and one argument that will affect functionality.
   1. the mapping file (as parsed from `fly.txt` in Part 1 above)
   2. a c_tab file from StringTie
       * You have a file `SRP004442.stringtie.tar.gz`. This is found in your `~/data/results/` directory.
       * You need to run `tar -xzf SRP004442.stringtie.tar.gz` to unpack this file. When you unpack/untar this file, it unpacks into the folder named `stringtie`
           * If this command throws an error, you should alternatively use `wget`, specifically: `wget https://bx.bio.jhu.edu/track-hubs/cmdb/t_data.ctab`
       * Then your c_tab file specifically is `~/data/results/stringtie/SRR072893/t_data.ctab`
+  3. See below concerning this
 
 
 Your script should find the corresponding translation from the mapping file. If found, it should print the
