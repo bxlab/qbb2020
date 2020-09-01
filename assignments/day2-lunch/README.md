@@ -48,14 +48,14 @@ Your script should take as input two files.
   1. the mapping file , `fly.text` (as retrieved and explained above)
   2. a c_tab file from StringTie
       * You have a file `SRP004442.stringtie.tar.gz`. This is found in your `~/data/results/` directory.
-      * You need to run `tar -xzf SRP004442.stringtie.tar.gz` to unpack this file
+      * You need to run `tar -xzf SRP004442.stringtie.tar.gz` to unpack this file. When you unpack/untar this file, it unpacks into the folder named `stringtie`
           * If this command throws an error, you should alternatively use `wget`, specifically: `wget https://bx.bio.jhu.edu/track-hubs/cmdb/t_data.ctab`
       * Then your c_tab file specifically is `~/data/results/stringtie/SRR072893/t_data.ctab`
 
 
 Your script should find the corresponding translation from the mapping file. If found, it should print the
 line from the c_tab file, replacing the `gene_id` field with the translated
-identifier. If not found, it should do one of two things depending on a command
+identifier (**the UniProt ID**). If not found, it should do one of two things depending on a command
 line argument:
 
   1. Print nothing (ignore the line)
