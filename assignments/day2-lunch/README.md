@@ -30,7 +30,7 @@ containing the string "DROME". This should make it much easier for you to
 parse.
 
 Parse this file, and output a new file with two tab separated columns, the
-first containg the FlyBase ID and the second the Uniprot ID (AC).
+first containg the FlyBase ID and the second the Uniprot ID (AC). This is your parsed mapping file.
 
 > Hint: running `split` without specifying a delimiter splits on "whitespace"
 > by default. For example:
@@ -43,9 +43,9 @@ first containg the FlyBase ID and the second the Uniprot ID (AC).
 
 ## 2. Identifier mapping
 
-Write a python script for identifier mapping.<br /><br />
+Write a **python script** for identifier mapping. (Alternatively, you may use a Jupyter Notebook, but only if you use a function.) <br /><br />
 Your script should take as input two files.
-  1. the mapping file , `fly.text` (as retrieved and explained above)
+  1. the mapping file (as parsed from `fly.txt` in Part 1 above)
   2. a c_tab file from StringTie
       * You have a file `SRP004442.stringtie.tar.gz`. This is found in your `~/data/results/` directory.
       * You need to run `tar -xzf SRP004442.stringtie.tar.gz` to unpack this file. When you unpack/untar this file, it unpacks into the folder named `stringtie`
@@ -56,17 +56,25 @@ Your script should take as input two files.
 Your script should find the corresponding translation from the mapping file. If found, it should print the
 line from the c_tab file, replacing the `gene_id` field with the translated
 identifier (**the UniProt ID**). If not found, it should do one of two things depending on a command
-line argument:
+line argument (or a function argument if using Jupyter):
 
   1. Print nothing (ignore the line)
   2. Print and fill the field with a default value specified on the
      command line.
 
-## Submit
+     * **NOTE:** We only want the first 100 lines of output displayed in the notebook or in an output file
 
-Submit your two Python scripts, with any instructions needed to run them in
-a documentation comment, and the first 100 lines of your output using each
-of the two options.
+## Submit
+**DO NOT git add, commit, or push the two input files**
+
+If you're using Python scripts, submit
+  - your two Python scripts (parsing and identifier mapping), with any instructions needed to run them in a documentation comment
+  - the first 100 lines of your identifier mapping output using each of the two options.
+
+If you're using Jupyter notebook(s), submit
+  - your notebook(s)
+  - any output files, if you did write to them, containing the first 100 lines of your output
+
 
 ## FAQ
 
