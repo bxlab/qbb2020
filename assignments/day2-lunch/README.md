@@ -43,41 +43,37 @@ first containg the FlyBase ID and the second the Uniprot ID (AC). This is your p
 
 ## 2. Identifier mapping
 
-Write a **python script** for identifier mapping. (Alternatively, you may use a Jupyter Notebook, but only if you use a function.) <br /><br />
-Your script should take as input two files and one argument that will affect functionality.
-  1. the mapping file (as parsed from `fly.txt` in Part 1 above)
-  2. a c_tab file from StringTie
-      * You have a file `SRP004442.stringtie.tar.gz`. This is found in your `~/data/results/` directory.
-      * You need to run `tar -xzf SRP004442.stringtie.tar.gz` to unpack this file. When you unpack/untar this file, it unpacks into the folder named `stringtie`
-          * If this command throws an error, you should alternatively use `wget`, specifically: `wget https://bx.bio.jhu.edu/track-hubs/cmdb/t_data.ctab`
-      * Then your c_tab file specifically is `~/data/results/stringtie/SRR072893/t_data.ctab`
+Write a **function** in your Jupyter notebook for identifier mapping. (Alternatively, if you feel comfortable doing so, you may use a python script that takes in arguments from the command line.)
+
+Your function should take three arguments: two files, and a third argument that will affect how it behaves.
+
+  1. The mapping file (as parsed from `fly.txt` in Part 1 above)
+  2. A `c_tab` file from StringTie
+      * You have a file called `SRP004442.stringtie.tar.gz`. It is in your `~/data/results/` directory
+      * You need to run `tar -xzf SRP004442.stringtie.tar.gz` to unpack this file. When you unpack/untar this file, it will unpack into a folder named `stringtie`
+          * If this command throws an error, you should use `wget`, specifically: `wget https://bx.bio.jhu.edu/track-hubs/cmdb/t_data.ctab`
+      * Then, the `c_tab` file you will use for this exercise is `~/data/results/stringtie/SRR072893/t_data.ctab`
   3. See below concerning this
 
-
-Your script should find the corresponding translation from the mapping file. If found, it should print the
-line from the c_tab file, replacing the `gene_id` field with the translated
-identifier (**the UniProt ID**). If not found, it should do one of two things depending on the value of the third command
-line argument (or a function argument if using Jupyter):
+Your script should look through the `c_tab` file and find the corresponding translation from the mapping file. If found, it should print the line from the c_tab file, replacing the `gene_id` field with the translated identifier (**the UniProt ID**). If not found, it should do one of two things depending on the value of the third argument to your function:
 
   1. Print nothing (ignore the line)
-    * This should occur when a specific value is given for the third command line argument
-  2. Print and fill the field with a default value specified on the
-     command line.
-    * This should occur if the value of the third command line argument is **NOT** the value chosen to ignore the line
+    * This should occur when a specific input is given for the third argument to your function
+  2. Print and fill the field with a default value specified in the function.
+    * This should occur if the value of the third argument is **NOT** the "ignore line" value chosen to ignore the line
 
-  **NOTE:** We only want the first 100 lines of output displayed in the notebook or in an output file
+  **NOTE:** We only want the first 100 lines of output displayed in your notebook or in an output file
 
 ## Submit
-**DO NOT git add, commit, or push the two input files**
-
-If you're using Python scripts, submit
-  - your two Python scripts (parsing and identifier mapping), with any instructions needed to run them in a documentation comment
-  - the first 100 lines of your identifier mapping output using each of the two options.
+**DO NOT git add, commit, or push the two input files!**
 
 If you're using Jupyter notebook(s), submit
   - your notebook(s)
   - any output files, if you did write to them, containing the first 100 lines of your output
 
+If you're using Python scripts, submit
+  - your two Python scripts (parsing and identifier mapping), with any instructions needed to run them in a documentation comment
+  - the first 100 lines of your identifier mapping output using each of the two options.
 
 ## FAQ
 
