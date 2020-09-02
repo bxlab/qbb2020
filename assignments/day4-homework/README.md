@@ -1,10 +1,10 @@
-# QBB2020 - Day 3 - Evening Exercise
+# QBB2020 - Day 4 - Evening Exercise
 
 ## Heuristic sequence alignment
 
 The first step in alignment algorithms like BLAST and FASTA is to find
 candidate alignment "seeds" using a dictionary-like index. Here we will
-implement the two first steps of such a matcher. 
+implement the two first steps of such a matcher.
 
 ### Data
 
@@ -24,13 +24,13 @@ $ wget "https://raw.githubusercontent.com/msauria/qbb2020-answers/master/day3-af
 
 ### Basic Exercise: Extend k-mer counter to k-mer matcher
 
-Implement a script that finds matching _k_-mers between a single query 
-sequence and a database of targets. The matcher should take three 
+Implement a script that finds matching _k_-mers between a single query
+sequence and a database of targets. The matcher should take three
 arguments:
 
 ```kmer_matcher.py <target.fa> <query.fa> <k>```
 
-Where `target.fa` is the database, potentially multiple sequences, 
+Where `target.fa` is the database, potentially multiple sequences,
 `query.fa` is the sequence to align (assume just one sequnce), and
 `k` is the _k_-mer size (an integer).
 
@@ -42,10 +42,10 @@ target_sequence_name    target_start    query_start k-mer
 
 **For submission**: Run the program for `k=11` and submit the first 1000 lines, along with your script.
 
-### Advanced Exercise: Extend matches 
+### Advanced Exercise: Extend matches
 
 Based on your kmer matcher, create `kmer_match_extender.py` which for each
-matched _k_-mer will extend on either end to find the longest exact match. 
+matched _k_-mer will extend on either end to find the longest exact match.
 For each target sequence, print the matches ordered from longest to
 shortest.
 
