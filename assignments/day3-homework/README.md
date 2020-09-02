@@ -59,7 +59,7 @@ Scroll to the end for cheat sheets, tutorials, etc.
 
   - **Note for Exercise 2 only git add, commit, and push your saved image**
 
-3. Report the number times each feature appears in column 3 of `BDGP.Ensembl.81.gtf` using `grep`, `cut`, `sort`, and `uniq`. The file you direct stdout to should be named `features.txt`
+3. Report the number times each feature appears in column 3 of `BDGP.Ensembl.81.gtf` using `cut`, `sort`, `uniq`, and any other commands you'd like to include. The file you direct stdout to should be named `features.txt`
 
     - You should have exactly 8 lines in a file named `features.txt`.
 
