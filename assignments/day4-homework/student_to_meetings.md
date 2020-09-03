@@ -1,42 +1,43 @@
-## day4 homework qbb2020
+## day4 lunch qbb2020
 
-### Meeting 1 with Kate
-[Meeting link](https://jhubluejays.zoom.us/j/98448517762)
+### Meeting 1 with Steph
+[Meeting link](https://jhubluejays.zoom.us/j/95594596580)
 
-* Andrew Bortvin
-* Brenda Cesar
-* Austin Chiappetta
-* Sadhana Chidambaran
-* Ariel Gold
-* Griffin Kowalewski
-* Jeff Liao
-* Vivian Morris
-* Joanna Portillo
-* Jonathan Seaman
-
-### Meeting 2 with Dylan
-[Meeting link](https://jhubluejays.zoom.us/j/95019730708)
-
-* Jonathan Fischer
-* Sammie Goetting
-* Audrey Heffner
-* Frankie Hernandez
-* Radhika Jangi
-* Nat Klein
-* Frank Liu
-* Matt Lubin
-* Gemechu Mekonnen
-* Robyn Stix
+* Jeff
+* Leah
+* Brenda
+* Ariel
+* Jonathan S
+* Jon F
+* Radhika
+* Gemechu
 
 
-### Meeting 3 with Steph
-[Meeting link](https://jhubluejays.zoom.us/j/93409011198)
+### Meeting 2 with Kate
+[Meeting link](https://jhubluejays.zoom.us/j/98502509663)
 
-* Joshua Derrick
-* Acadia Grimme
-* Catherine Henderson
-* Jim Mullin
-* Leah Pappalardo
-* Gianna Tricola
-* David Wang
-* Angela Xu
+* Cat
+* Vivian
+* Griffin
+* Sadhana
+* Frankie
+* Robyn
+* Angela
+* Frank
+
+
+### Meeting 3 with Dylan
+[Meeting link](https://jhubluejays.zoom.us/j/99084326763)
+
+* Gianna
+* Audrey
+* Joanna
+* Nat
+* Austin
+* Jim
+* Sammie
+* Matt
+* Acadia
+* David
+* Josh
+* Andrew
