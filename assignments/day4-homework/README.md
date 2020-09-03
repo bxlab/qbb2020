@@ -8,18 +8,18 @@ implement the two first steps of such a matcher.
 
 ### Data
 
-Use [**this file**](https://github.com/bxlab/qbb2020/raw/master/assignments/day3-homework/droYak2_seq.fa) as your **query** sequence. You can download it directly to your current directory like this:
+Use [**this file**](https://github.com/bxlab/qbb2020/raw/master/assignments/day4-homework/droYak2_seq.fa) as your **query** sequence. You can download it directly to your current directory like this:
 
 ```Bash
-$ wget "https://github.com/bxlab/qbb2020/raw/master/assignments/day3-homework/droYak2_seq.fa"
+$ wget "https://github.com/bxlab/qbb2020/raw/master/assignments/day4-homework/droYak2_seq.fa"
 ```
 
 Use `subset.fa` from this afternoon as your **target** sequence
 
-<!--If your `fasta.py` is broken, you can grab ours from here:
+<!--If your `fasta_parser.py` is broken, you can grab ours from here:
 
 ```Bash
-$ wget "https://raw.githubusercontent.com/msauria/qbb2020-answers/master/day3-afternoon/fasta_iterator_class.py"
+$ wget "https://raw.githubusercontent.com/qbb2020/raw/master/assignments/day4-homework/fasta_iterator_class.py"
 ```-->
 
 ### Basic Exercise: Extend k-mer counter to k-mer matcher
