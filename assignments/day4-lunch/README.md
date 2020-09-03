@@ -69,7 +69,7 @@ For each position:
 ## Submit
 Your Jupyter Notebook(s) with the displayed output, or any Python scripts and their corresponding outputs.
 
-<!--- ## Pseudocode for Exercise 1
+- ## Pseudocode for Exercise 1
 ```
 #Initialization
 ## define search position
@@ -99,4 +99,4 @@ Your Jupyter Notebook(s) with the displayed output, or any Python scripts and th
     ## report gene, distance, and tally
     ## break
   ## redefine previous mid
-```--->
+```
