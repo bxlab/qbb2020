@@ -59,7 +59,7 @@ The columns are described below as well as in further detail [here](https://uswe
 
 Retrieve the list of positions of interest by running this code on the command line:
 ```
-$ wget "https://raw.githubusercontent.com/bxlab/qbb2019/master/assignments/day3-lunch/day3_100_positions.txt"
+$ wget "https://raw.githubusercontent.com/bxlab/qbb2020/master/assignments/day4-lunch/day3_100_positions.txt"
 ```
 
 For each position:
