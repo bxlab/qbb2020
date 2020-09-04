@@ -3,39 +3,39 @@
 ### Meeting 1 with Kate
 [Meeting link](https://jhubluejays.zoom.us/j/95128275964)
 
-* Andrew Bortvin
-* Jonathan Fischer
-* Acadia Grimme
-* Catherine Henderson
-* Nat Klein
-* Griffin Kowalewski
-* Matt Lubin
-* Gemechu Mekonnen
-* Leah Pappalardo
-* David Wang
+* Cat
+* Vivian
+* Gianna
+* Ariel
+* Frankie
+* Radhika
+* Gemechu
+* Jon F
+* Jonathan S
 
 ### Meeting 2 with Dylan
 [Meeting link](https://jhubluejays.zoom.us/j/93328460800)
 
-* Brenda Cesar
-* Austin Chiappetta
-* Joshua Derrick
-* Ariel Gold
-* Audrey Heffner
-* Radhika Jangi
-* Frank Liu
-* Vivian Morris
-* Joanna Portillo
-* Jonathan Seaman
+* Joanna
+* Leah
+* Sammie
+* Griffin
+* Robyn
+* David
+* Andrew
+* Josh
+* Frank
+* Angela
+* Jeff
 
 ### Meeting 3 with Steph
 [Meeting link](https://jhubluejays.zoom.us/j/98621848236)
 
-* Sadhana Chidambaran
-* Sammie Goetting
-* Frankie Hernandez
-* Jeff Liao
-* Jim Mullin
-* Robyn Stix
-* Gianna Tricola
-* Angela Xu
+* Brenda
+* Austin
+* Sadhana
+* Matt
+* Nat
+* Audrey
+* Jim
+* Acadia
