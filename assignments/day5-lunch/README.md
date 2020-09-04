@@ -34,7 +34,7 @@ Data are taken from Halldorsson, B. V., Palsson, G., Stefansson, O. A., Jonsson,
 
 9. Test whether the number of maternally inherited de novo mutations per proband is significantly different than the number of paternally inherited de novo mutations per proband.
 
-### Advanced exercise: Poisson regression
+### Generalized linear models: Poisson regression
 
 Note that standard linear regression assumes a continuous response variable. When we want to work with response variables that are "counts", such as the number of de novo mutations, we should technically use an approach such as "Poisson regression" that is designed for count data. To fit a Poisson regression model with Python statsmodels, simply use `smf.poisson()` in place of `smf.ols()`.
 
@@ -42,3 +42,18 @@ Note that standard linear regression assumes a continuous response variable. Whe
 
 11. The interpretation of parameter estimates from Poisson regression differs from that of OLS. Using the relevant Poisson regression model that you fit, predict the number of paternal de novo mutations for a proband with a father who was 50.5 years old at the proband's time of birth.
 - Hint: use Google to learn about interpreting coefficients from Poisson regression.
+
+### Advanced exercises
+
+12. Select a new dataset from those listed at the bootom of this website: https://github.com/rfordatascience/tidytuesday
+
+If not immediately obvious, the corresponding data can generally be found as a `.csv` file in the `tidytuesday/data/<year>/<date>` subdirectory of the GitHub repository.
+  
+13. Generate figures to explore these data. What patterns do you notice?
+
+14. Pose a question about the data that can be tested with a linear regression model.
+
+15. Fit your model, evaluate the model fit, and test your hypothesis with the `.summary()` method.
+
+
+
