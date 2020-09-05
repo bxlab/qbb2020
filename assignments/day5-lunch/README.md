@@ -38,7 +38,7 @@ Data are taken from Halldorsson, B. V., Palsson, G., Stefansson, O. A., Jonsson,
 
 Note that standard linear regression assumes a continuous response variable. When we want to work with response variables that are "counts", such as the number of de novo mutations, we should technically use an approach such as "Poisson regression" that is designed for count data. To fit a Poisson regression model with Python statsmodels, simply use `smf.poisson()` in place of `smf.ols()`.
 
-10. Re-fit the models (questions 9, 10, and 12) above using Poisson regression.
+10. Re-fit the models (questions 6, 7, and 9) above using Poisson regression.
 
 11. The interpretation of parameter estimates from Poisson regression differs from that of OLS. Using the relevant Poisson regression model that you fit, predict the number of paternal de novo mutations for a proband with a father who was 50.5 years old at the proband's time of birth.
 - Hint: use Google to learn about interpreting coefficients from Poisson regression.
